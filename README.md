@@ -14,16 +14,9 @@ ii) MLSAC provides a basis for method tailorability and creating situation speci
 iii) MLSAC is a metamodel based approach that facilitates the maintenance and consistent inter-changeability of evolving methods that can be fur-ther reused in multiple reengineering scenarios.
 iv) MLSAC constitutes a collection of validated and commonly grounded platform independent meth-od fragments that can be incorporated and se-quenced to run alongside conventional (reengineering) software process development to extend their capability for the reengineering to the cloud. A method engineer can use MLSAC as guidance/checklist to ensure that necessary steps are conducted in the transition to the cloud.
 
-
-
 Installation: The technologies used for the implementation of the prototype includes Microsoft .Net Framework 2015, C# programming language, and Microsoft Access Database. To edit the source code or execute the prototype system these technologies need to be installed. 
 
-Usage: We have provided a case study scenario showing interactive forms of MLSAC protoype system to create and maintain a reengineernig method. 
-The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-After download, you need to unzip files "WindowsFormsApplication1.7z" and ".vs.7z" on your computer. 
+Usage: We have provided a case study scenario (file name Using MLSAC - Case study 1.pdf in the root directoy) showing interactive forms of MLSAC protoype system to create and maintain a reengineernig method. 
+In the case of a need to get access source code and modify it, it is needed to unzip files "WindowsFormsApplication1.7z" and ".vs.7z" on the computer. 
 
-Contributing: Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for setting guidelines for repository contributors.
-
-Credits: Include a section for credits in order to highlight and link to the authors of your project.
-
-License: Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s
+License: MLSAC project is open source. Other method engineers or software team can download and improve the MLSAC system.  
