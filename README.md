@@ -15,6 +15,6 @@ iv) MLSAC constitutes a collection of validated and commonly grounded platform-i
 
 Installation: The technologies used for the implementation of the prototype are Microsoft .Net Framework 2015, C# programming language, and Microsoft Access Database. To edit the source code or execute the prototype system these technologies need to be installed. 
 
-Usage: We have provided a case study scenario (file name Using MLSAC - Case study 1.pdf in the root directory) showing interactive forms of MLSAC prototype system to create and maintain a reengineernig method. In the case of a need to get access source code and modify it, it is needed to unzip files "WindowsFormsApplication1.7z" and ".vs.7z" on the computer. 
+Usage: We have provided a case study scenario (file name Using MLSAC - Case study 1.pdf in the root directory) showing interactive forms of MLSAC prototype system to create and maintain a reengineering method. In the case of a need to get access source code and modify it, it is needed to unzip files "WindowsFormsApplication1.7z" and ".vs.7z" on the computer. 
 
 License: MLSAC project is open source. Method engineers and software teams can download and improve MLSAC system.  
